@@ -79,8 +79,8 @@ GIF Credit: https://matteding.github.io/2019/04/25/sparse-matrices/
     `./matrix_app {arguments}`
 
 
-### Visual Studio Sln File
-If you would like, the sln file named 4_25_22.sln can be downloaded along with the Matrix, MatrixVector, and Node classes to test functionality without the SFML visualization. You would do this by creating a main file in Visual Studio, creating a Matrix or MatrixVector object, and using the included methods.
+### Visual Studio Testing
+If you would like to test the functionality of the individual functions in the matrix classes via a main function, the repository can be cloned from Visual Studio, and the sln file will be available to open and use. The main.cpp file is mostly empty and can be used to test the classes. A Matrix or MatrixVector object can be created and the methods can be used with the help of the comments.
    
 
     

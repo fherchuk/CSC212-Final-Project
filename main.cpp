@@ -5,8 +5,8 @@ int main() {
 
     
     
-    //int t = 0;
-	//std::cin >> t;
+	int t = 0;
+	std::cin >> t;
     
     
 }
